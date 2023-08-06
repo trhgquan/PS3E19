@@ -12,4 +12,4 @@ For this challenge, you will be predicting a full year worth of sales for variou
 | `v4`    | `country`, `store`, `product`, `day_of_week`, `holiday` | XGBoost           | 52.89421 |
 
 ## License
-This project is licensed under [The GPL v3](LICENSE)
+This project is licensed under [The GNU GPL v3](LICENSE)
